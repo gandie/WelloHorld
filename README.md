@@ -12,3 +12,4 @@ https://stackoverflow.com/questions/3653495/is-there-an-virtual-environment-for-
 https://github.com/electron-userland/spectron
 https://webdriver.io/docs/api.html
 https://www.christianengvall.se/electron-hello-world/
+https://www.electronjs.org/docs/tutorial/using-selenium-and-webdriver
