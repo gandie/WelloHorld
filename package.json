@@ -1,0 +1,14 @@
+{
+  "name": "electron-hello-world",
+  "version": "0.1.0",
+  "main": "main.js",
+  "devDependencies": {
+    "electron": "^9.2.0",
+    "electron-builder": "^22.8.0",
+    "mocha": "^8.1.1",
+    "spectron": "^11.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
